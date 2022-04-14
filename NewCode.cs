@@ -14,4 +14,6 @@ class  MyCs(args[] line)
     {
         vs[i] = i;
     }
+    CodeArgumentReferenceExpression.Equals();
+    Lookup<enum>;
 }
